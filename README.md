@@ -11,4 +11,4 @@ If slime falls the lava,Slime will die.
 * This game can be started continuously.
 * This game can create new games continuously.
 ## Installation
-Compile & Run File name "GameWindow.java".
+Run File name "GameWindow.class".
